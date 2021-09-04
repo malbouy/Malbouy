@@ -9,6 +9,7 @@
  - Dead busy with real life work
 
 Contact me! 
+Profile: https://dsc.bio/mal
+Discord: Malbouy#3421
 
-
-I'll be linking more methods to 
+I'll be linking more methods to contact me soon!
