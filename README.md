@@ -4,9 +4,9 @@
 
 ### <div align="center">Hello! Myself Malbouy, a passionate web-developer interested in bio-sciences.</div>
 
- + Currently working on learning Discord API and use various libraries to make Discord bots
- + Love helping other people, often placing other's choices above mine
- - Dead busy with real life work
++ Currently working on learning Discord API and use various libraries to make Discord bots
++ Love helping other people, often placing other's choices above mine
+- Dead busy with real life work
 
 Contact me! 
 Profile: https://dsc.bio/mal
