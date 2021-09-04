@@ -10,7 +10,14 @@
 # No motivation to keep working
 ```
 
-Contact me! 
+# Languages known
+<a href="https://html.com/html5/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="40px" width="40px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" height="40px" width="40px"></a>
+<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="40px" width="40px"></a>
+<a href="https://www.python.org/"><img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" height="40px" width="40px"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40px" width="40px"></a>
+
+# Contact me! 
 Profile: <a href="https://dsc.bio/mal">https://dsc.bio/mal</a><br>
 Discord: Malbouy#3421
 
