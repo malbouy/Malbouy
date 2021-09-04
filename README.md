@@ -8,7 +8,6 @@
 + Love helping other people, often placing other's choices above mine
 - Dead busy with real life work
 # No motivation to keep working
-@@ Stuck with school and chatting...
 ```
 
 Contact me! 
