@@ -20,6 +20,11 @@
 <a href="https://www.mongodb.com/"><img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="40px" width="40px"></a>
 <a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40px"></a>
 
+# GitHub Status
+<div align="center"><a href="https://github.com/malbouy"><img src="https://github-readme-stats.vercel.app/api?username=Malbouy&show_icons=true&count_private=true&hide_border=true" align="center"></a>
+<!--- <a href="https://github.com/malbouy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malbouy&amp;layout=compact" alt="Top Langs"></a> --></div>
+
+
 # Contact me! 
 Profile: <a href="https://dsc.bio/mal">https://dsc.bio/mal</a><br>
 Discord: Malbouy#3421
