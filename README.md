@@ -27,6 +27,7 @@
 
 # Contact me! 
 Profile: <a href="https://dsc.bio/mal">https://dsc.bio/mal</a><br>
-Discord: Malbouy#3421
+Discord: Malbouy#3421<br>
+Reddit: <a href="https://www.reddit.com/user/UltimateTechGeek">u/UltimateTechGeek</a>
 
 I'll be linking more methods to contact me soon!
