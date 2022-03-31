@@ -18,6 +18,7 @@
 <a href="https://www.python.org/"><img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" height="40px" width="40px"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40px" width="40px"></a>
 <a href="https://www.mongodb.com/"><img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="40px" width="40px"></a>
+<a href="https://www.sqlite.org/index.html"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/384px-Sqlite-square-icon.svg.png?20130711220928' height="40px" width="40px"></a>
 <a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40px"></a>
 
 # GitHub Status
